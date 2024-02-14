@@ -1,0 +1,131 @@
+#popup-window1 {
+  position: fixed;
+  width: 300px;
+  height: 200px;
+  background: white;
+  padding: 10px;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 10;
+  display: none;
+  justify-content: center;
+}
+
+#image1 {
+  display: flex;
+  width: 100%;
+}
+
+#popup-window2 {
+  position: fixed;
+  width: 300px;
+  height: 200px;
+  background: white;
+  padding: 10px;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 10;
+  display: none;
+}
+
+#image2 {
+  display: flex;
+  width: 100%;
+}
+
+#popup-window3 {
+  position: fixed;
+  width: 300px;
+  height: 200px;
+  background: white;
+  padding: 10px;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 10;
+  display: none;
+}
+
+#image3 {
+  display: flex;
+  width: 100%;
+}
+
+#popup-window4 {
+  position: fixed;
+  width: 300px;
+  height: 200px;
+  background: white;
+  padding: 10px;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 10;
+  display: none;
+}
+
+#image4 {
+  display: flex;
+  width: 100%;
+}
+
+#popup-window5 {
+  position: fixed;
+  width: 300px;
+  height: 300px;
+  background: white;
+  padding: 10px;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 10;
+  display: none;
+}
+
+#image5 {
+  display: flex;
+  width: 100%;
+}
+
+
+#popup-window6 {
+  position: fixed;
+  width: 300px;
+  height: 200px;
+  background: white;
+  padding: 10px;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 10;
+  display: none;
+}
+
+#image6 {
+  display: flex;
+  width: 100%;
+}
+
+#yes-button {
+  background-color: green;
+  border-radius: 10%;
+}
+
+#no-button {
+  background-color: red;
+  border-radius: 10%;
+}
